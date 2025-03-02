@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="jcSZlcyqOVMo29h_M9nM">
+    <mxGraphModel dx="1103" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.538;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VbKa2P00zbD1Cjzhu_Ms-5" target="VbKa2P00zbD1Cjzhu_Ms-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="272.30769230769226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;" vertex="1" parent="1">
+          <mxGeometry x="30" y="239.7" width="40" height="60.6" as="geometry" />
+        </mxCell>
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VbKa2P00zbD1Cjzhu_Ms-6" target="VbKa2P00zbD1Cjzhu_Ms-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VbKa2P00zbD1Cjzhu_Ms-6" target="VbKa2P00zbD1Cjzhu_Ms-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-6" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.domain_and_website;" vertex="1" parent="1">
+          <mxGeometry x="160" y="237.8" width="74.35" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VbKa2P00zbD1Cjzhu_Ms-8" target="VbKa2P00zbD1Cjzhu_Ms-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VbKa2P00zbD1Cjzhu_Ms-8" target="VbKa2P00zbD1Cjzhu_Ms-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VbKa2P00zbD1Cjzhu_Ms-8" target="VbKa2P00zbD1Cjzhu_Ms-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="235.3" width="63" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VbKa2P00zbD1Cjzhu_Ms-10" target="VbKa2P00zbD1Cjzhu_Ms-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-10" value="Amazon API Gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="1">
+          <mxGeometry x="320" y="217.8" width="64" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VbKa2P00zbD1Cjzhu_Ms-16" target="VbKa2P00zbD1Cjzhu_Ms-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-16" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="486.5" y="50" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-17" value="Amazon DynamoDB" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.dynamodb;" vertex="1" parent="1">
+          <mxGeometry x="640" y="220.3" width="60" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VbKa2P00zbD1Cjzhu_Ms-17" target="VbKa2P00zbD1Cjzhu_Ms-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VbKa2P00zbD1Cjzhu_Ms-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.911;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VbKa2P00zbD1Cjzhu_Ms-10" target="VbKa2P00zbD1Cjzhu_Ms-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
